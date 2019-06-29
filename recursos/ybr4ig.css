@@ -3,239 +3,125 @@
 
 h1 {
 	font-size: 4em;
-
 	margin-top: 0.67em;
-
 	margin-bottom: 0.67em;
-
-
 }
-
-
-
 
 h2 {
-	font-family: arial;
-  
+	font-family: arial;  
 	font-weight: bold;
-  
 	text-align: justify;
-  
 	margin-right: 10%;
-  
 	margin-left: 10%;
-  
 	margin-top: 3%;
-
 	margin-bottom: 3%;
-
 }
-
-
-
-
 
 h3 {
 	font-family: arial;
-  
 	color: #94A899;
-  
 	font-weight: lighter;
-  
 	text-align: justify;
-  
 	margin-right: 10%;
-  
 	margin-left: 10%;
-  
 	margin-top: 3%;
-  
 	margin-bottom: 3%;
-
 }
 
 
 
 h4 {
 	font-family: arial;
-  
 	color: #555555;
-  
 	font-weight: lighter;
-
 	text-align: justify;
-
 	margin-right: 10%;
-
 	margin-left: 10%;
-
 	margin-top: 3%;
-
 	margin-bottom: 3%;
-
 }
-
-
 
 h5 {
 	font-size: 3em;
-
 	margin-top: 0.67em;
-
 	margin-bottom: 0.67em;
-
-
 }
 	
-
-
-
-/*formatação da tabela*/
-
-
-
-
+/*formataÃ§Ã£o da tabela*/
 
 .container {
-
 	position: relative;
-
 	width: 100%;
-
 }
-
-
 
 .image {
-
 	display: block;
-
 	width: 100%;
-
 	height: auto;
-
 }
-
-
 
 .halfsize {
-
 	-moz-transform:scale(0.8);
-
 	-webkit-transform:scale(0.8);
-
 	transform:scale(0.8);
-
 }
-
-
 
 .overlay {
-
 	position: absolute;
-  
-	top: 0;
-  
+	top: 0; 
 	bottom: 0;
-
 	left: 0;
-
 	right: 0;
-
 	height: 100%;
-
 	width: 100%;
-
 	opacity: 0;
-
 	transition: .5s ease;
-
 	background-color: #00D1B2;
-
 }
-
-
 
 .container:hover .overlay {
-
 	opacity: 1;
-
 }
-
-
 
 .text {
-  
 	color: white;
-  
 	font-size: 100%;
-
-	position: absolute;
-  
+	position: absolute; 
 	top: 50%;
-  
 	left: 50%;
-  
 	-webkit-transform: translate(-50%, -50%);
-  
 	-ms-transform: translate(-50%, -50%);
-  
 	transform: translate(-50%, -50%);
-  
 	text-align: center;
-  position: relative;
-
+	position: relative;
 }
-
-
 
 a:link {
-	text-decoration: none;
-	
+	text-decoration: none;	
 	color: B5b5b5;
-
 }
-
-
 
 a:visited {
 	text-decoration: none;
-
 	color: B5b5b5;
-
 }
-
-
 
 a:hover {
-	text-decoration: none;
-	
+	text-decoration: none;	
 	color: B5b5b5;
-
 }
-
-
 
 a:active {
-
 	text-decoration: none;
 	color: B5b5b5;
 
 }
 
-
-
 a:not(.sobre) {
-
 	text-decoration: none;
-
-	color: ffffff;
-	
+	color: ffffff;	
 }
 
-
-/*fim formatação tabela*/
-
-
+/*fim formataÃ§Ã£o tabela*/
 
 </style>
