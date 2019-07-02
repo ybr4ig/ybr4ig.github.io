@@ -51,17 +51,22 @@ a:link {
 
 /* visited link */
 a:visited {
-  color: green;
+  color: #b5b5b5;
 }
 
 /* mouse over link */
 a:hover {
-  color: red;
+  color: #b5b5b5;
 }
 
 /* selected link */
 a:active {
-  color: yellow;
+  color: #ffffff;
+} 
+
+/* selected link */
+a:active(.sobre) {
+  color: #b5b5b5;
 } 
 
 /*final formatação dos links*/
