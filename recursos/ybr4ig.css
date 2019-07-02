@@ -61,12 +61,12 @@ a:hover {
 
 /* selected link */
 a:active {
-  color: #ffffff;
+  color: #b5b5b5;
 } 
 
 /* selected link */
-a:active(.sobre) {
-  color: #b5b5b5;
+a:not(.sobre) {
+  color: #ffffff;
 } 
 
 /*final formatação dos links*/
