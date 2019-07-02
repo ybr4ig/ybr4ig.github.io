@@ -42,7 +42,30 @@ h5 {
 	margin-top: 0.67em;
 	margin-bottom: 0.67em;
 }
-	
+
+/*formatação dos links*/
+
+a:link {
+  color: #b5b5b5;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: red;
+}
+
+/* selected link */
+a:active {
+  color: yellow;
+} 
+
+/*final formatação dos links*/
+
 /*formatação da tabela*/
 
 .container {
@@ -90,27 +113,6 @@ h5 {
 	transform: translate(-50%, -50%);
 	text-align: center;
 	position: relative;
-}
-
-a:link {
-	color: #B5b5b5;
-}
-
-a:visited {
-	color: #B5b5b5;
-}
-
-a:hover {
-	color: #B5b5b5;
-}
-
-a:active {
-	color: #B5b5b5;
-
-}
-
-a:not(.sobre) {
-	color: #ffffff;	
 }
 
 /*fim formatação tabela*/
