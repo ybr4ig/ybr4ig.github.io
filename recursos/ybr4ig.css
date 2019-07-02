@@ -43,34 +43,6 @@ h5 {
 	margin-bottom: 0.67em;
 }
 
-/*formatação dos links*/
-
-a:link {
-  color: #b5b5b5;
-}
-
-/* visited link */
-a:visited {
-  color: #b5b5b5;
-}
-
-/* mouse over link */
-a:hover {
-  color: #b5b5b5;
-}
-
-/* selected link */
-a:active {
-  color: #b5b5b5;
-} 
-
-/* selected link */
-a:not(.sobre) {
-  color: #ffffff;
-} 
-
-/*final formatação dos links*/
-
 /*formatação da tabela*/
 
 .container {
@@ -121,3 +93,31 @@ a:not(.sobre) {
 }
 
 /*fim formatação tabela*/
+
+/*formatação dos links*/
+
+a:link {
+  color: #b5b5b5;
+}
+
+/* visited link */
+a:visited {
+  color: #b5b5b5;
+}
+
+/* mouse over link */
+a:hover {
+  color: #b5b5b5;
+}
+
+/* selected link */
+a:active {
+  color: #b5b5b5;
+} 
+
+/* selected link */
+a:not(.sobre) {
+  color: #ffffff;
+} 
+
+/*final formatação dos links*/
