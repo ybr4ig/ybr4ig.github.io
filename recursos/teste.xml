@@ -15,10 +15,15 @@
     <link>https://www.w3schools.com/xml</link>
     <description>New XML tutorial on W3Schools</description>
   </item>
-    <item>
+  <item>
     <title>Teste real e oficial</title>
-    <link>https://www.w3schools.com/xml</link>
+    <link>https://www.twitter.com/pqgustavo</link>
     <description>Alguma coisa muda?</description>
+  </item>
+  <item>
+    <title>Segundo teste</title>
+    <link>https://www.twitter.com/xoxona</link>
+    <description>Nova indicação</description>
   </item>
 </channel>
 
