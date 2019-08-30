@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!DOCTYPE html>
 <rss version="2.0">
 	
-<html>
 <head>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.5/css/bulma.min.css"/>
 <link rel="stylesheet" href="https://ybr4ig.github.io/youth-for-internet-governce/recursos/ybr4ig.css"/>	
@@ -49,6 +47,5 @@
     <description>Nova indicação</description>
   </item>
 </channel>
-
-</html>
+	
 </rss>
