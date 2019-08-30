@@ -8,8 +8,6 @@
  
 <!-- XML demonstration -->
 
-<rss version="2.0">
-
 <section class="hero is-dark">
 	<br></br>
 </section>
@@ -23,7 +21,9 @@
     </div>
   </div>
 </section>
-  
+
+<rss version="2.0">
+	
 <channel>
   <title>W3Schools Home Page</title>
   <link>https://www.w3schools.com</link>
