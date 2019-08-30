@@ -1,21 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 
-
-<section class="hero is-dark">
-<br>
-</section>
-
-<section class="hero is-primary is-bold">
-  <div class="hero-head">
-    <div class="container">
-	<h1 align="center" lang="en">
-	<a href="https://ybr4ig.github.io/youth-for-internet-governce/" tabindex="0">Youth Brazil for IG</a>
-	</h1>
-    </div>
-  </div>
-</section>
-
 <channel>
   <title>W3Schools Home Page</title>
   <link>https://www.w3schools.com</link>
