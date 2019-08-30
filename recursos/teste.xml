@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
+<!DOCTYPE html>
+<head>
+	<meta name="viewport" content="width=device-width, charset="UTF-8" initial-scale=1" lang="pt-BR">
+	<title lang="en">Youth Brazil for IG</title>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.5/css/bulma.min.css">
+	<link rel="stylesheet" href="recursos/ybr4ig.css">
+	<meta name="description" content="Jovens engajados em Governança da Internet">
+	<meta name="google-site-verification" content="BcmPbC5Hm4KcUa3DhSNjqbdmTflbt5A9siFeu36TYqs" />
+	<meta facebook property="og:image" content="https://www.techgenyz.com/wp-content/uploads/2017/12/social-media-influence.jpg" />
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:site" content="@pqgustavo" />
+	<meta name="twitter:title" content="Jovens no Brasil engajados em Governança da Interne" />
+	<meta name="twitter:description" content="Saiba mais" />
+	<meta name="twitter:image" content="https://www.techgenyz.com/wp-content/uploads/2017/12/social-media-influence.jpg" />
+</head>
+
+<section class="hero is-dark">
+<br>
+</section>
+
+<section class="hero is-primary is-bold">
+  <div class="hero-head">
+    <div class="container">
+	<h1 align="center" lang="en">
+	<a href="https://ybr4ig.github.io/youth-for-internet-governce/" tabindex="0">Youth Brazil for IG</a>
+	</h1>
+    </div>
+  </div>
+</section>
 
 <channel>
   <title>W3Schools Home Page</title>
