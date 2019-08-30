@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
-<!DOCTYPE html>
 <head>
 	<meta name="viewport" content="width=device-width, charset="UTF-8" initial-scale=1" lang="pt-BR">
 	<title lang="en">Youth Brazil for IG</title>
@@ -55,6 +54,5 @@
     <description>Nova indicação</description>
   </item>
 </channel>
-
-</html>
+	
 </rss>
