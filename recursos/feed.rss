@@ -6,9 +6,6 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.5/css/bulma.min.css"/>
 <link rel="stylesheet" href="https://ybr4ig.github.io/youth-for-internet-governce/recursos/ybr4ig.css"/>	
 </head>
-</html>
-	
-<!-- XML demonstration -->
 
 <section class="hero is-dark">
 	<br></br>
@@ -23,6 +20,10 @@
     </div>
   </div>
 </section>
+	
+</html>
+	
+<!-- XML demonstration -->
 	
 <channel>
   <title>W3Schools Home Page</title>
