@@ -19,22 +19,9 @@ h3 {
 	margin-bottom: 0.67em;
 }
 
-
-
-.channel {
+channel {
 	font-family: arial;
 	color: #555555;
-	font-weight: lighter;
-	text-align: justify;
-	margin-right: 10%;
-	margin-left: 10%;
-	margin-top: 3%;
-	margin-bottom: 3%;
-}
-
-h5 {
-	font-family: arial;
-	color: #94A899;
 	font-weight: lighter;
 	text-align: justify;
 	margin-right: 10%;
