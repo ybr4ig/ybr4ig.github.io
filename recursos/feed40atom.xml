@@ -1,0 +1,21 @@
+
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+  
+  <atom:link href="https://www.lumileds.com/feeds/news.xml" rel="self" type="application/rss+xml" />
+    <title>Lumileds LED Lighting News Releases</title>
+    <link>https://www.lumileds.com</link>    <description>Lumileds is the light engine leader, delivering innovation, quality and reliability.</description>    <copyright>Copyright 2017,  Lumileds Holding B.V. All rights reserved.</copyright>    <managingEditor>webmasters@lumileds.com  (Lumileds)</managingEditor>          <image>
+	<description>Lumileds is the light engine leader, delivering innovation, quality and reliability.</description>        <link>https://www.lumileds.com</link>        <title>Lumileds LED Lighting News Releases</title>
+        <url>/uploads/CGFeedMaker/Lumileds_Logo_RGB_195x40.png</url>
+      </image>
+      
+      <item>
+      <title><![CDATA[Atom teste 1 *** Lumileds Introduces Most Robust, Brightest High Power LUXEON 5050 Package]]></title><link>https://www.lumileds.com/news/352/50/Lumileds-Introduces-Most-Robust-Brightest-High-Power-LUXEON-5050-Package?utm_source=News&amp;utm_medium=RSS&amp;utm_campaign=RSS%20Feeds</link>
+            <description><![CDATA[The LUXEON 5050 Square features the industry’s highest flux and efficacy in a robust package that enables brighter, longer lasting streetlights, industrial fixtures and downlights.]]></description>
+      <pubDate>Tue, 13 Aug 2019 07:00:00 -0500</pubDate>
+      <guid isPermaLink="false">pllc-news-352</guid>
+      </item>
+      
+</channel>
+</rss>
