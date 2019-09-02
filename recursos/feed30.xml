@@ -5,114 +5,61 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
->
+	xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
 
 <channel>
-	<title>A2Y</title>
-	<atom:link href="http://www.abhi2you.com/feed" rel="self" type="application/rss+xml" />
-	<link>https://www.abhi2you.com</link>
-	<description>Paytm Gold Loot Script &#38; Offers Tricks</description>
-	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>2</sy:updateFrequency>
+	<title>Youth Brazil for IG</title>
+	<atom:link href="http://ybr4ig.github.io/youth-for-internet-governce/recursos/feed60.xml" rel="self" type="application/rss+xml" />
+	<link>https://ybr4ig.github.io/youth-for-internet-governce/</link>
+	<description></description>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
 	
-	<item>
-	<title>Teste no topo Games S02 Special Screening for OnePlus Users!</title>
-	<link>https://www.abhi2you.com/2019/08/sacred-games-s02-special-screening.html</link>
-		<comments>https://www.abhi2you.com/2019/08/sacred-games-s02-special-screening.html#respond</comments>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-				<category><![CDATA[Freebie]]></category>
-		<category><![CDATA[Netflix]]></category>
-		<category><![CDATA[OnePlus]]></category>
-		<category><![CDATA[OnePlus 5T Launch]]></category>
-		<category><![CDATA[OnePlus India]]></category>
-		<category><![CDATA[oneplus loot]]></category>
-		<category><![CDATA[oneplus mobile]]></category>
-		<category><![CDATA[OnePlus Store]]></category>
-		<category><![CDATA[Sacred games]]></category>
-		<category><![CDATA[sacred games season 2]]></category>
 
-		<guid isPermaLink="false">https://www.abhi2you.com/?p=24103</guid>
-				<description><![CDATA[<p>Sacred Games S02 Special Screening for OnePlus Users! Own a OnePlus Device? OnePlus here bring another perk for you guys. If you love Sacred Games &#38; you are a fan of Sacred Games Series by Netflix then you can attend a free special screening of Sacred Games S02 organised by Netflix &#38; OnePlus. All you [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://www.abhi2you.com/2019/08/sacred-games-s02-special-screening.html">Sacred Games S02 Special Screening for OnePlus Users!</a> appeared first on <a rel="nofollow" href="https://www.abhi2you.com">A2Y</a>.</p>
-]]></description>
-	<wfw:commentRss>https://www.abhi2you.com/2019/08/sacred-games-s02-special-screening.html/feed</wfw:commentRss>
-	<slash:comments>0</slash:comments>
-	</item>
-	
-	<item>
-	<title>Sacred Games S02 Special Screening for OnePlus Users!</title>
-	<link>https://www.abhi2you.com/2019/08/sacred-games-s02-special-screening.html</link>
-		<comments>https://www.abhi2you.com/2019/08/sacred-games-s02-special-screening.html#respond</comments>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-				<category><![CDATA[Freebie]]></category>
-		<category><![CDATA[Netflix]]></category>
-		<category><![CDATA[OnePlus]]></category>
-		<category><![CDATA[OnePlus 5T Launch]]></category>
-		<category><![CDATA[OnePlus India]]></category>
-		<category><![CDATA[oneplus loot]]></category>
-		<category><![CDATA[oneplus mobile]]></category>
-		<category><![CDATA[OnePlus Store]]></category>
-		<category><![CDATA[Sacred games]]></category>
-		<category><![CDATA[sacred games season 2]]></category>
+<image>
+	<url>https://nacoesunidas.org/wp-content/uploads/2014/11/onu_logo2-5462da5e_site_icon-32x32.png</url>
+	<title>ONU Brasil</title>
+	<link>https://nacoesunidas.org</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">151830341</site>	
+<item>
+		<title>TesteEm visita à República Democrática do Congo, Guterres reafirma apoio à missão da ONU no país</title>
+		<link>https://nacoesunidas.org/em-visita-a-republica-democratica-do-congo-guterres-reafirma-apoio-a-missao-da-onu-no-pais/</link>
+				<pubDate>Mon, 02 Sep 2019 21:21:25 +0000</pubDate>
+		<dc:creator><![CDATA[ONU Brasil]]></dc:creator>
+				<category><![CDATA[Ação Humanitária]]></category>
+		<category><![CDATA[Paz e Segurança]]></category>
+		<category><![CDATA[Paz; justiça e instituições eficazes]]></category>
+		<category><![CDATA[Saúde e bem-estar]]></category>
+		<category><![CDATA[Secretário-geral da ONU]]></category>
 
-		<guid isPermaLink="false">https://www.abhi2you.com/?p=24103</guid>
-				<description><![CDATA[<p>Sacred Games S02 Special Screening for OnePlus Users! Own a OnePlus Device? OnePlus here bring another perk for you guys. If you love Sacred Games &#38; you are a fan of Sacred Games Series by Netflix then you can attend a free special screening of Sacred Games S02 organised by Netflix &#38; OnePlus. All you [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://www.abhi2you.com/2019/08/sacred-games-s02-special-screening.html">Sacred Games S02 Special Screening for OnePlus Users!</a> appeared first on <a rel="nofollow" href="https://www.abhi2you.com">A2Y</a>.</p>
-]]></description>
-	<wfw:commentRss>https://www.abhi2you.com/2019/08/sacred-games-s02-special-screening.html/feed</wfw:commentRss>
-	<slash:comments>0</slash:comments>
-	</item>
-	
-	<item>
-	<title>Segundo teste Sacred Games S02 Special Screening for OnePlus Users!</title>
-	<link>https://www.abhi2you.com/2019/08/sacred-games-s02-special-screening.html</link>
-		<comments>https://www.abhi2you.com/2019/08/sacred-games-s02-special-screening.html#respond</comments>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-				<category><![CDATA[Freebie]]></category>
-		<category><![CDATA[Netflix]]></category>
-		<category><![CDATA[OnePlus]]></category>
-		<category><![CDATA[OnePlus 5T Launch]]></category>
-		<category><![CDATA[OnePlus India]]></category>
-		<category><![CDATA[oneplus loot]]></category>
-		<category><![CDATA[oneplus mobile]]></category>
-		<category><![CDATA[OnePlus Store]]></category>
-		<category><![CDATA[Sacred games]]></category>
-		<category><![CDATA[sacred games season 2]]></category>
+		<guid isPermaLink="false">https://nacoesunidas.org/?p=164956</guid>
+				<description><![CDATA[No segundo dia de sua visita à República Democrática do Congo (RDC), o secretário-geral das Nações Unidas, António Guterres, elogiou no domingo (1) a coragem dos congolenses e o sacrifício feito pelos capacetes-azuis da ONU que deram suas vidas para protegê-los.
 
-		<guid isPermaLink="false">https://www.abhi2you.com/?p=24103</guid>
-				<description><![CDATA[<p>Sacred Games S02 Special Screening for OnePlus Users! Own a OnePlus Device? OnePlus here bring another perk for you guys. If you love Sacred Games &#38; you are a fan of Sacred Games Series by Netflix then you can attend a free special screening of Sacred Games S02 organised by Netflix &#38; OnePlus. All you [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://www.abhi2you.com/2019/08/sacred-games-s02-special-screening.html">Sacred Games S02 Special Screening for OnePlus Users!</a> appeared first on <a rel="nofollow" href="https://www.abhi2you.com">A2Y</a>.</p>
-]]></description>
-	<wfw:commentRss>https://www.abhi2you.com/2019/08/sacred-games-s02-special-screening.html/feed</wfw:commentRss>
-	<slash:comments>0</slash:comments>
-	</item>
-	
-	<item>
-	<title>Mais um teste 3 Sacred Games S02 Special Screening for OnePlus Users!</title>
-	<link>https://www.abhi2you.com/2019/08/sacred-games-s02-special-screening.html</link>
-		<comments>https://www.abhi2you.com/2019/08/sacred-games-s02-special-screening.html#respond</comments>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-				<category><![CDATA[Freebie]]></category>
-		<category><![CDATA[Netflix]]></category>
-		<category><![CDATA[OnePlus]]></category>
-		<category><![CDATA[OnePlus 5T Launch]]></category>
-		<category><![CDATA[OnePlus India]]></category>
-		<category><![CDATA[oneplus loot]]></category>
-		<category><![CDATA[oneplus mobile]]></category>
-		<category><![CDATA[OnePlus Store]]></category>
-		<category><![CDATA[Sacred games]]></category>
-		<category><![CDATA[sacred games season 2]]></category>
+Guterres falou em coletiva de imprensa na cidade de Beni, que está no epicentro da epidemia de ebola do país. Ele mencionou a falta de segurança e outros problemas graves que a região está sofrendo, como sarampo, malária e cólera.
 
-		<guid isPermaLink="false">https://www.abhi2you.com/?p=24103</guid>
-				<description><![CDATA[<p>Sacred Games S02 Special Screening for OnePlus Users! Own a OnePlus Device? OnePlus here bring another perk for you guys. If you love Sacred Games &#38; you are a fan of Sacred Games Series by Netflix then you can attend a free special screening of Sacred Games S02 organised by Netflix &#38; OnePlus. All you [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://www.abhi2you.com/2019/08/sacred-games-s02-special-screening.html">Sacred Games S02 Special Screening for OnePlus Users!</a> appeared first on <a rel="nofollow" href="https://www.abhi2you.com">A2Y</a>.</p>
-]]></description>
-	<wfw:commentRss>https://www.abhi2you.com/2019/08/sacred-games-s02-special-screening.html/feed</wfw:commentRss>
-	<slash:comments>0</slash:comments>
-	</item>
-	
-	</channel>
+"Espero que a minha presença aqui reafirme o meu apoio total à MONUSCO (Missão das Nações Unidas na República Democrática do Congo), na luta contra grupos armados que espalham medo e morte", disse Guterres, em francês, língua oficial da RDC. ]]></description>
+								<content:encoded><![CDATA[<div id="attachment_164960" style="width: 1034px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-164960" data-attachment-id="164960" data-permalink="https://nacoesunidas.org/em-visita-a-republica-democratica-do-congo-guterres-reafirma-apoio-a-missao-da-onu-no-pais/image1024x768-8/" data-orig-file="https://nacoesunidas.org/wp-content/uploads/2019/09/image1024x768.jpg" data-orig-size="1024,682" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Secretário-geral da ONU coloca flores em túmulos de capacetes-azuis em Mavivi, leste da República Democrática do Congo, em 1º de setembro de 2019. Foto: ONU/Martine Perret" data-image-description="&lt;p&gt;Secretário-geral da ONU coloca flores em túmulos de capacetes-azuis em Mavivi, leste da República Democrática do Congo, em 1º de setembro de 2019. Foto: ONU/Martine Perret&lt;/p&gt;
+" data-medium-file="https://nacoesunidas.org/wp-content/uploads/2019/09/image1024x768-300x200.jpg" data-large-file="https://nacoesunidas.org/wp-content/uploads/2019/09/image1024x768-1024x682.jpg" class="size-full wp-image-164960" src="https://nacoesunidas.org/wp-content/uploads/2019/09/image1024x768.jpg" alt="Secretário-geral da ONU coloca flores em túmulos de capacetes-azuis em Mavivi, leste da República Democrática do Congo, em 1º de setembro de 2019. Foto: ONU/Martine Perret" width="1024" height="682" /><p id="caption-attachment-164960" class="wp-caption-text">Secretário-geral da ONU coloca flores em túmulos de capacetes-azuis em Mavivi, leste da República Democrática do Congo, em 1º de setembro de 2019. Foto: ONU/Martine Perret</p></div>
+<p>No segundo dia de sua visita à República Democrática do Congo (RDC), o secretário-geral das Nações Unidas, António Guterres, elogiou no domingo (1) a coragem dos congolenses e o sacrifício feito pelos capacetes-azuis da ONU que <a href="https://news.un.org/en/story/2019/09/1045372">deram suas vidas para protegê-los</a>.</p>
+<p>Guterres falou em coletiva de imprensa na cidade de Beni, que está no epicentro da epidemia de ebola do país. Ele mencionou a falta de segurança e outros problemas graves que a região está sofrendo, como sarampo, malária e cólera.</p>
+<p>&#8220;Espero que a minha presença aqui reafirme o meu apoio total à MONUSCO (Missão das Nações Unidas na República Democrática do Congo), na luta contra grupos armados que espalham medo e morte&#8221;, disse Guterres, em francês, língua oficial da RDC.</p>
+<p>&#8220;A MONUSCO e seus parceiros – as forças armadas do RDC e a polícia nacional congolesa &#8211; continuam a trabalhar em conjunto para trazer paz e segurança à região.&#8221;</p>
+<p>O chefe da ONU também ofereceu suas condolências às famílias e amigos das vítimas de violência, pedindo a todos os grupos armados interrompam imediatamente os ataques contra a população civil e às forças de segurança encarregadas de proteger a população congolesa.</p>
+<p>&#8220;Os capacetes-azuis pagaram um preço alto a serviço da paz. Mas isso só fortalece a nossa determinação. Faremos o possível para acabar com a falta de segurança nesta região. É importante que o povo de Beni saiba que ouvimos seu sofrimento.&#8221;</p>
+<p>A ONU está determinada em apoiar as autoridades congolesas, comunidades locais e atores da sociedade civil na luta contra a falta de segurança, disse Guterres, prometendo abordar o assunto nesta segunda-feira (2) com as autoridades nacionais em sua visita à capital Kinshasa.</p>
+<p>O secretário-geral da ONU também visitou o Centro de Tratamento de Ebola em Mangina no domingo (1), onde expressou sua admiração pela resiliência da comunidade e salientou a importância da segurança para o combate à doença.</p>
+<p>&#8220;Para combater a ebola, precisamos de liberdade de circulação, acesso e segurança. Nossa solidariedade deve ser demonstrada através da ampliação da cooperação entre a MONUSCO e as Forças Armadas da RDC para que possam fazer o que for possível para desmobilizar grupos armados locais e convencê-los a se reintegrar à sociedade.&#8221;</p>
+<p>Países e organizações que fizeram compromissos de financiamento para apoiar o combate ao ebola precisam honrar suas promessas, disse Guterres, para que a resposta continue de forma ininterrupta em todas as áreas.</p>
+]]></content:encoded>
+
+<post-id xmlns="com-wordpress:feed-additions:1">164956</post-id>	
+</item>
+
+</channel>
 </rss>
