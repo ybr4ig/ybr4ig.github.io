@@ -1,8 +1,8 @@
 h1 {
 	font-size: 1em;
 	font-weight: 100;
-	margin-top: 7%;
-	margin-bottom: 7%;
+	margin-top: 10vh;
+	margin-bottom: 10vh;
 }
 
 @media screen and (min-width: 601px) {
