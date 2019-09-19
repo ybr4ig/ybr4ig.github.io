@@ -1,7 +1,7 @@
 h1 {
-	font-size: 3.25vw;
-	margin-top: 0.67vw;
-	margin-bottom: 0.67vw;
+	font-size: 4em;
+	margin-top: 0.67em;
+	margin-bottom: 0.67em;
 }
 
 h2 {
@@ -77,6 +77,12 @@ h5 {
 
 .container:hover .overlay {
 	opacity: 1;
+}
+
+@media screen and (max-width: 600px) {
+  div.title {
+    font-size: 3vw;
+  }
 }
 
 .text {
