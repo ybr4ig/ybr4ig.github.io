@@ -94,3 +94,20 @@ a:not(.sobre) {
 } 
 
 /*final formatação dos links*/
+
+/*animação exibida sobre fotos*/
+
+.text {
+  color: white;
+  font-size: 100%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+  position: relative;
+}
+
+/*final animação exibida sobre fotos*/
