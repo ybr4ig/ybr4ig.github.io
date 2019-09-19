@@ -48,14 +48,9 @@ h4 {
 }
 
 h5 {
-	font-family: arial;
-	color: #94A899;
-	font-weight: lighter;
-	text-align: justify;
-	margin-right: 10%;
-	margin-left: 10%;
-	margin-top: 3%;
-	margin-bottom: 3%;
+	font-size: 2em;
+	margin-top: 0.67em;
+	margin-bottom: 0.67em;
 }
 
 h6 { 	
