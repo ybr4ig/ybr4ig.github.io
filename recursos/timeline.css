@@ -31,10 +31,13 @@ h5 {
   margin-bottom: 2%;
 }
 h6 { 	
-  font-family: secondary;
-  font-size: 1rem;
-  color: #fff;
-  text-align: justify;
+	font-family: secondary;
+	font-size: 1rem;
+	color: #fff;
+	text-align: justify;
+	margin-right: 1%;
+	margin-left: 1%;
+
 }
 body {
 	background: #fff;
