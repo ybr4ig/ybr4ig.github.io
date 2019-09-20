@@ -172,16 +172,7 @@ p.body {
 	text-align: justify;
 	margin-top: 1%;
 	margin-bottom: 1%;
-	font-size: 100%;
-}
-
-p.autor {
-	font-weight: bold;
-	text-align: right;
-	margin-top: 3%;
-	margin-bottom: 1%;
-	font-weight: lighter;
-	font-size: 80%;
+	font-size: 90%;
 }
 	
 p.cit { 	
@@ -199,14 +190,15 @@ p.ref {
 	font-family: arial;
 	font-size: 80%;
 	color: #4a4a4a;
-	text-align: justify;
+	text-align: left;
 	margin-top: 1%;
 	margin-bottom: 1%;
 }
+
 span.dest {color: #4a4a4a; text-decoration: underline; text-decoration-color: hsl(171, 100%, 41%);}
 	
 span.dest:hover {color: #fff; background: hsl(171, 100%, 41%); transition: all 1s, text-decoration 1s;}
-/*fim formatação tabela*/
+
 @media (max-width: 767px) {                  
    .content-to-hide {
       display: none;
