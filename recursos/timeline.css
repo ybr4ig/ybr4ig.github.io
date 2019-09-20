@@ -1,8 +1,24 @@
-h1 { 	
-  font-size: 4em;
-  margin-top: 0.67em;
-  margin-bottom: 0.67em;
+h1 {
+	font-size: 1em;
+	font-weight: 100;
+	margin-top: 7vh;
+	margin-bottom: 5vh;
 }
+
+@media screen and (min-width: 601px) {
+  a.title {
+	font-size: 4em;
+	font-weight: 400;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  a.title {
+	font-size: 11vw;
+	font-weight: 400;
+  }
+}
+
 h5 { 	
   font-family: primary;
   font-size: 1.5rem;
@@ -104,5 +120,8 @@ a:active {
 	text-decoration: none;
 	color: white;
 }
+
+a.autor {font-size: 1rem; color: #fff; text-align: justify;}
+
 .time {
 	color:hsl(0, 0%, 71%);
