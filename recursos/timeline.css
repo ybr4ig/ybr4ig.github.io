@@ -1,0 +1,108 @@
+h1 { 	
+  font-size: 4em;
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+}
+h5 { 	
+  font-family: primary;
+  font-size: 1.5rem;
+  color: #fff;
+  font-weight: bold;
+  text-align: justify;
+  margin-right: 10%;
+  margin-left: 2%;
+  margin-top: 1%;
+  margin-bottom: 2%;
+}
+h6 { 	
+  font-family: secondary;
+  font-size: 1rem;
+  color: #fff;
+  text-align: justify;
+}
+body {
+	background: #fff;
+	color: #fff;
+	overflow-x: hidden;
+} 
+.container:hover .overlay {
+  opacity: 1;
+}
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.halfsize {
+    -moz-transform:scale(0.8);
+    -webkit-transform:scale(0.8);
+    transform:scale(0.8);
+}
+/* TIMELINE
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.timeline ul li {
+  list-style-type: none;
+  position: relative;
+  width: 6px;
+  margin: 0 10%;
+  padding-top: 50px;
+  background: hsl(171, 100%, 41%);
+  
+}
+.timeline ul li::after {
+  content: '';
+  position: absolute;
+  left: 50%;
+  bottom: 0;
+  transform: translateX(-50%);
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background: inherit;
+}
+.timeline ul li div {
+  width:70vw;
+  position: relative;
+  bottom: 0;
+  background: hsl(171, 100%, 41%);
+  padding-top: 5 vw;
+  padding-left: 1 vw;
+  padding-bottom: 5 vw;
+  padding-right: 1 vw;
+}
+.timeline ul li div::before {
+  content: '';
+  position: absolute;
+  bottom: 7px;
+  width: 0;
+  height: 0;
+  border-style: solid;
+}
+.timeline ul li div {
+  left: 45px;
+}
+.timeline ul li div::before {
+  left: -15px;
+  border-width: 8px 16px 8px 0;
+  border-color: transparent hsl(171, 100%, 41%) transparent transparent;
+}
+/* LINK
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+a:link {
+	text-decoration: none;
+	color: white;
+}
+a:visited {
+	text-decoration: none;
+	color: white;
+}
+a:hover {
+	text-decoration: none;
+	color: white;
+}
+a:active {
+	text-decoration: none;
+	color: white;
+}
+.time {
+	color:hsl(0, 0%, 71%);
