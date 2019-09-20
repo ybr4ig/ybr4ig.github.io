@@ -160,7 +160,6 @@ p.autor {
 	margin-bottom: 1%;
 	font-weight: lighter;
 	font-size: 80%;
-	font-size: 90%;
 }
 
 p.title {
@@ -192,8 +191,8 @@ p.cit {
 	text-align: justify;
 	margin-right: 1%;
 	margin-left: 1%;
-	margin-top: 3%;
-	margin-bottom: 3%;
+	margin-top: 2%;
+	margin-bottom: 2%;
 }
 
 p.ref { 	
