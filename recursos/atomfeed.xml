@@ -1,22 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" >
 
-<link href="https://ybr4ig.github.io/feed.xml" rel="self" type="application/atom+xml" />
+<link href="https://ybr4ig.github.io/atomfeed.xml" rel="self" type="application/atom+xml" />
 <link href="https://ybr4ig.github.io/" rel="alternate" type="text/html" />
 
-<id>https://ybr4ig.github.io/feed.xml</id>
+<id>https://ybr4ig.github.io/atomfeed.xml</id>
 
 <title type="html">Youth Brazil for Internet Governance</title>
 
 <subtitle></subtitle>
 
+<entry><title type="html">Eduardo Rodrigues agora compõe o Mosaico da Juventude</title>
+<link href="https://ybr4ig.github.io/recursos/centro-oeste.html" rel="alternate" type="text/html" />
+<id>https://ybr4ig.github.io/recursos/centro-oeste.html#43</id>
+<content type="html" xml:base="https://ybr4ig.github.io/recursos/centro-oeste.html"></content>
+<author><name>pqgustavo</name></author><category term="blog" />
+<summary type="html">
+Creio que se faz necessário encontrarmos maneiras ainda mais efetivas de disseminação das informações sobre governança de internet, que ainda não são compreendidas por grande parte da população.
+</summary>
+</entry>
+  
+ 
 <entry><title type="html">Gustavo Santos agora compõe o Mosaico da Juventude</title>
 <link href="https://ybr4ig.github.io/recursos/centro-oeste.html#43" rel="alternate" type="text/html" title="Gustavo Santos agora compõe o Mosaico da Juventude" />
 <id>https://ybr4ig.github.io/recursos/centro-oeste.html#43</id>
-<content type="html" xml:base="https://ybr4ig.github.io/recursos/centro-oeste.html#43">
-
-</content><author><name>pqgustavo</name></author><category term="blog" />
-
+<content type="html" xml:base="https://ybr4ig.github.io/recursos/centro-oeste.html#43"></content>
+<author><name>pqgustavo</name></author><category term="blog" />
 <summary type="html">
 Creio que se faz necessário encontrarmos maneiras ainda mais efetivas de disseminação das informações sobre governança de internet, que ainda não são compreendidas por grande parte da população.
 </summary>
