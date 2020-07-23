@@ -69,6 +69,10 @@ div.iconer { color: #fff; font-weight: lighter; text-align: center; font-size: 5
 
 /*formatação dos links*/
 
+a#link-timeline {
+	color: #4f4a4a;
+}
+
 a:link {
   color: #b5b5b5;
 }
@@ -79,6 +83,12 @@ a:visited {
 }
 
 /* mouse over link */
+
+a#link-timeline:hover {
+  color: hsl(0, 0%, 21%);
+  text-decoration: underline;
+}
+
 a:hover {
   color: hsl(0, 0%, 21%);
 }
