@@ -1,5 +1,5 @@
-# Ybr4ig
-Mosaico da juventude.
+# ybr4ig
+Mosaico da juventude
 
 ## O que é
 A iniciativa Youth Brazil for Internet Governance é uma forma independente de dar visibilidade às ações, publicações, orientações e oportunidades da juventude engajada; facilitar a integração de novos candidatos na comunidade, ao conhecer as histórias de outros e antigos participantes; bem como, exibir multiplicidade de identidades brasileiras através desse mosaico. 
